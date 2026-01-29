@@ -1,4 +1,4 @@
-# InStay Automated Hotel Room and Service Management System
+# InStay Automated Hotel Room Management System
 
 This is a Hotel Management tool which can be used to manage
 activites like storing customer details, booking rooms of four different types, ordering food
